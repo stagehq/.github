@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/58360188/230451538-44d90af5-c043-47e4-a094-3e4615b6f298.png)
+![image](https://user-images.githubusercontent.com/58360188/230451696-23fac203-cd8e-4df9-a643-f0c98e644857.png)
 
 # Stage, API-based developer portfolio
 Stage is an API-based developer portfolio platform that helps developers showcase their projects, skills, and experience to potential employers. With an ever-growing collection of building blocks, developers can personalize their portfolios to stand out from the crowd.
