@@ -16,7 +16,37 @@ With just one click, you can connect your content to Stage. Our powerful block A
 ### Build your own content blocks 🧩: 
 You can build your own blocks and publish them to the community.
 
-![image](https://user-images.githubusercontent.com/58360188/230448533-d4187af1-a9d3-492b-9537-338db60cfa64.png)
+```typescript
+import { Block, List } from "@stagehq/ui";
+import * as API from "@stagehq/api";
+import { useEffect, useState } from "react";
+
+export default function Extension() {
+  const [data, setData] = useState([]);
+  
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await API.gh.get("/repos/owner/repo/issues");
+      setData(response.data);
+    };
+    fetchData();
+  }, []);
+
+  return (
+    <Block
+      title="Title"
+      imagePath="https://source.unsplash.com/random/400x200"
+      size={2}
+    >
+      <List>
+        {data.map((item) => (
+          <List.Item key={item.id} title={item.title} />
+        ))}
+      </List>
+    </Block>
+  );
+};
+```
 
 
 ### Analyze your growth 🌱: 
