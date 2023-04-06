@@ -9,11 +9,13 @@ Developers need to showcase their work and skills in a way that's easy to unders
 ## Features
 ### Connect your content ✍️: 
 With just one click, you can connect your content to Stage. Our powerful block API allows you to extend your content even further.
+
 ![image](https://user-images.githubusercontent.com/58360188/230448279-83ad9919-f129-4a21-816d-c5de1c966a03.png)
 
 
 ### Build your own content blocks 🧩: 
 You can build your own blocks and publish them to the community.
+
 ![image](https://user-images.githubusercontent.com/58360188/230448533-d4187af1-a9d3-492b-9537-338db60cfa64.png)
 
 
