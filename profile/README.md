@@ -49,5 +49,5 @@ export default function Extension() {
 ```
 
 
-### Analyze your growth 🌱: 
+### Analyze your growth 🌱 (soon): 
 Get a clear picture of your growth with detailed analytics. Understand your audience and make better decisions. (Not in place, yet)
