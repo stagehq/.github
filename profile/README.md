@@ -7,8 +7,13 @@ Where to contribute:
 - [Main Application](https://github.com/stagehq/backstage) to add functionality in editor
 - [UI Kit](https://github.com/stagehq/ui) to improve the blocks
  
-## Demos
+## Stage Sites Examples
 Our Community is already using Stage as their personal Sites:
+[caksono](https://getstage.app/caksono)
+[rajdeep](https://getstage.app/rajdeep)
+[nilsjacobsen](https://getstage.app/nilsjacobsen)
+[niklas](https://getstage.app/niklas)
+[felix](https://getstage.app/felix)
 
 ## Motivation
 Developers need to showcase their work and skills in a way that's easy to understand and visually appealing to potential employers. However, building a portfolio website from scratch can be time-consuming and detract from the actual work that developers want to showcase. GetStage aims to simplify this process by providing an API-based platform that connects to various sources of content and social media to create a beautiful and always up-to-date site.
