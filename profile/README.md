@@ -3,8 +3,12 @@
 # Stage, API-based developer portfolio
 Stage is an API-based developer portfolio platform that helps developers showcase their projects, skills, and experience to potential employers. With an ever-growing collection of building blocks, developers can personalize their portfolios to stand out from the crowd.
 
-[Main Application](https://github.com/stagehq/backstage)
-[UI Kit](https://github.com/stagehq/ui)
+Where to contribute:
+- [Main Application](https://github.com/stagehq/backstage) to add functionality in editor
+- [UI Kit](https://github.com/stagehq/ui) to improve the blocks
+ 
+## Demos
+Our Community is already using Stage as their personal Sites:
 
 ## Motivation
 Developers need to showcase their work and skills in a way that's easy to understand and visually appealing to potential employers. However, building a portfolio website from scratch can be time-consuming and detract from the actual work that developers want to showcase. GetStage aims to simplify this process by providing an API-based platform that connects to various sources of content and social media to create a beautiful and always up-to-date site.
